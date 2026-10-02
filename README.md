@@ -1,12 +1,6 @@
-<div align="center"> 
-<img width="100%" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Samiullah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-<img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=520&height=45&lines=CS+student;Python+developer;Learning+FastAPI+%26+SQLAlchemy;Building+backend+projects" />
+<div align="center">
 
-# Hi, I'm Samiullah 
-
-**Computer Science student • building backend stuff in Python.**
- 
-Right now I'm deep in FastAPI, SQLAlchemy and JWT auth
+<img width="100%" alt="Samiullah - CS student building backend stuff in Python" src="assets/banner.svg" />
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samiiiii_560)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khan_sami88006)
@@ -16,12 +10,12 @@ Right now I'm deep in FastAPI, SQLAlchemy and JWT auth
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
--  Computer science student focused on backend development and software engineering
--  Currently learning **FastAPI**, **SQLAlchemy**, authentication with **JWT**, and database integration
--  Building practical projects to sharpen my skills and write clean, maintainable code
--  Working towards becoming a backend developer
+- 🎓 Computer science student focused on backend development and software engineering
+- 🌱 Currently learning **FastAPI**, **SQLAlchemy**, authentication with **JWT**, and database integration
+- 🔨 Building practical projects to sharpen my skills and write clean, maintainable code
+- 🎯 Working towards becoming a backend developer
 
 ---
 
@@ -77,4 +71,3 @@ Right now I'm deep in FastAPI, SQLAlchemy and JWT auth
 I'm open to learning opportunities, collaboration on backend projects, and feedback on my code. The best way to reach me is by [email](mailto:qwertynoob456@gmail.com), or find me on [X](https://x.com/khan_sami88006) and [Instagram](https://instagram.com/samiiiii_560).
 
 <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
- 
