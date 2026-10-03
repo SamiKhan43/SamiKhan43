@@ -32,23 +32,11 @@ class Samiullah:
 
 <br/>
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/SamiKhan43/Weather_Application">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=Weather_Application&theme=blue_navy&hide_border=true" alt="Weather Application" />
-</a>
-<a href="https://github.com/SamiKhan43/Broadcast-Server-CLI">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=Broadcast-Server-CLI&theme=blue_navy&hide_border=true" alt="Broadcast Server CLI" />
-</a>
-<a href="https://github.com/SamiKhan43/API_PROJECTS_CLI">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=API_PROJECTS_CLI&theme=blue_navy&hide_border=true" alt="API Projects CLI" />
-</a>
-<a href="https://github.com/SamiKhan43/file-manager">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=file-manager&theme=blue_navy&hide_border=true" alt="File Manager" />
-</a>
-
+<a href="https://github.com/SamiKhan43/Expense-Tracker-API"> <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=Expense-Tracker-API&theme=blue_navy&hide_border=true" alt="Expense Tracker API" /> </a> <a href="https://github.com/SamiKhan43/Weather_Application"> <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=Weather_Application&theme=blue_navy&hide_border=true" alt="Weather Application" /> </a> <a href="https://github.com/SamiKhan43/Broadcast-Server-CLI"> <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=Broadcast-Server-CLI&theme=blue_navy&hide_border=true" alt="Broadcast Server CLI" /> </a> <a href="https://github.com/SamiKhan43/file-manager"> <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=file-manager&theme=blue_navy&hide_border=true" alt="File Manager" /> </a>
 </div>
 
 <br/>
