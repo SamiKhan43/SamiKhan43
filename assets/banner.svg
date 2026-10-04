@@ -1,59 +1,108 @@
-<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Samiullah - CS student building backend stuff in Python" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpjNzk2MDI1Zi02NWNjLTRiOGUtODMxMC1iYzZhZWY5MmZlY2UAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaJbJigs11VtPY7yeR5TghEQAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpiMmQyYWY2OC1iNGRmLTRlNTEtYjk1My1lZWM5M2M2ZTM5YWNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoCLe6Ucy+Yz/d//Xu5jdmbAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggJ31pmq2/prVe9ZQ3hVQ5Z3MtXFO6tK+7ZMheqsqRjT+kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaGPFGi2fjd1NctyOHBMq1r8AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBdds/srqLeoXjQoPCYP7f1y9smGB49IkWQRNo1cw0XUmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjmZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmM3OTYwMjVmLTY1Y2MtNGI4ZS04MzEwLWJjNmFlZjkyZmVjZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmJkODYyNzRlLTM0NzUtNDEwZS04ODk3LTI4MzA4MDgyNGM1YnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAnfWmarb+mtV71lDeFVDlncy1cU7q0r7tkyF6qypGNP6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg066iM/+5OaHBuwP5rRLH5j8T4xXXJuXXQuRXHs6i7LmiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggeKXMvpLzrHGNkXWZT4exAbuuTLp/TkqBJpNOoDUqP010Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQIE4O9eojMiPlB6bVFRad6H7ISrcmL+aEZome+ke3V39gjPBj11wX6397yI13vvSCSROR7h+u3nB2HSppplTy8M=</c2pa:manifest></metadata>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Samiullah - Computer Science Student and Backend Developer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0f2027"/>
-      <stop offset="50%" stop-color="#203a43"/>
-      <stop offset="100%" stop-color="#2c5364"/>
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="50%" stop-color="#112a3a"/>
+      <stop offset="100%" stop-color="#1b3b52"/>
     </linearGradient>
-    <linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#36BCF7"/>
-      <stop offset="100%" stop-color="#7CF5C3"/>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5eead4"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
     </linearGradient>
-    <clipPath id="reveal">
-      <rect class="reveal" x="60" y="140" width="0" height="40"/>
-    </clipPath>
-    <style>
-      .name { font: 700 58px 'Segoe UI', Arial, sans-serif; fill: url(#tg); animation: fadeUp 1s ease-out both; }
-      .hi   { font: 500 22px 'Segoe UI', Arial, sans-serif; fill: #9fd8ef; animation: fadeUp 1s ease-out both; }
-      .sub  { font: 500 22px 'Courier New', monospace; fill: #e6f4fa; }
-      .chip { fill: rgba(54,188,247,0.15); stroke: #36BCF7; stroke-width: 1; }
-      .chipt{ font: 600 14px 'Segoe UI', Arial, sans-serif; fill: #cfe8f3; }
-      .code { font: 700 120px 'Courier New', monospace; fill: rgba(255,255,255,0.05); }
-      .reveal { animation: reveal 2.6s steps(43) 0.8s forwards; }
-      .cursor { animation: move 2.6s steps(43) 0.8s forwards, blink 0.9s step-end 0.8s infinite; }
-      .orb1 { animation: float 6s ease-in-out infinite; }
-      .orb2 { animation: float 8s ease-in-out infinite reverse; }
-      .orb3 { animation: float 7s ease-in-out 1s infinite; }
-      .chips { animation: fadeUp 1s ease-out 3.2s both; }
-      @keyframes reveal { from { width: 0 } to { width: 600px } }
-      @keyframes move   { from { transform: translateX(0) } to { transform: translateX(568px) } }
-      @keyframes blink  { 50% { opacity: 0 } }
-      @keyframes float  { 0%,100% { transform: translateY(0) } 50% { transform: translateY(-14px) } }
-      @keyframes fadeUp { from { opacity: 0; transform: translateY(14px) } to { opacity: 1; transform: translateY(0) } }
-    </style>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="c1"><rect x="0" y="0" height="300" width="0"><animate attributeName="width" from="0" to="1200" dur="1.4s" begin="0.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="0" y="0" height="300" width="0"><animate attributeName="width" from="0" to="1200" dur="0.8s" begin="2.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="0" y="0" height="300" width="0"><animate attributeName="width" from="0" to="1200" dur="1.2s" begin="3.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="0" y="0" height="300" width="0"><animate attributeName="width" from="0" to="1200" dur="1.8s" begin="5s" fill="freeze"/></rect></clipPath>
   </defs>
 
-  <rect width="900" height="260" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
 
-  <text class="code" x="600" y="190">&lt;/&gt;</text>
-  <circle class="orb1" cx="780" cy="60" r="38" fill="#36BCF7" opacity="0.18"/>
-  <circle class="orb2" cx="840" cy="200" r="22" fill="#7CF5C3" opacity="0.2"/>
-  <circle class="orb3" cx="690" cy="215" r="12" fill="#36BCF7" opacity="0.25"/>
+  <!-- Terminal window -->
+  <g>
+    <rect x="40" y="36" width="540" height="228" rx="12" fill="#0a0f1a" stroke="#2b4560" stroke-width="1.5"/>
+    <path d="M40 48a12 12 0 0 1 12-12h516a12 12 0 0 1 12 12v22H40z" fill="#14202f"/>
+    <circle cx="64" cy="53" r="6" fill="#ff5f56"/>
+    <circle cx="86" cy="53" r="6" fill="#ffbd2e"/>
+    <circle cx="108" cy="53" r="6" fill="#27c93f"/>
+    <text x="310" y="58" fill="#6b8299" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" text-anchor="middle">~/backend — zsh</text>
 
-  <text class="hi" x="60" y="62">Hi, I'm</text>
-  <text class="name" x="60" y="118">Samiullah</text>
+    <g font-family="Consolas, Menlo, 'Courier New', monospace" font-size="16">
+      <g clip-path="url(#c1)">
+        <text x="62" y="108"><tspan fill="#5eead4">$</tspan><tspan fill="#e2e8f0"> uvicorn main:app --reload</tspan></text>
+      </g>
+      <g clip-path="url(#c2)">
+        <text x="62" y="136" fill="#4ade80">INFO:  Application startup complete.</text>
+      </g>
+      <g clip-path="url(#c3)">
+        <text x="62" y="176"><tspan fill="#5eead4">$</tspan><tspan fill="#e2e8f0"> curl localhost:8000/me</tspan></text>
+      </g>
+      <g clip-path="url(#c4)">
+        <text x="62" y="208" fill="#fbbf24">{"role": "backend dev", "status": "learning"}</text>
+      </g>
+      <rect x="62" y="226" width="10" height="18" fill="#5eead4">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
 
-  <text class="sub" x="60" y="165" clip-path="url(#reveal)">CS student building backend stuff in Python</text>
-  <rect class="cursor" x="60" y="146" width="3" height="26" fill="#7CF5C3"/>
+  <!-- Name and role -->
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="625" y="118" font-size="58" font-weight="800" fill="url(#name)" letter-spacing="2">SAMIULLAH
+      <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.2s" fill="freeze"/>
+    </text>
+    <text x="627" y="152" font-size="20" fill="#cbd5e1" letter-spacing="1">Computer Science Student  ·  Backend Developer</text>
+  </g>
 
-  <g class="chips">
-    <rect class="chip" x="60"  y="195" width="76"  height="28" rx="14"/>
-    <text class="chipt" x="98"  y="214" text-anchor="middle">Python</text>
-    <rect class="chip" x="146" y="195" width="88"  height="28" rx="14"/>
-    <text class="chipt" x="190" y="214" text-anchor="middle">FastAPI</text>
-    <rect class="chip" x="244" y="195" width="108" height="28" rx="14"/>
-    <text class="chipt" x="298" y="214" text-anchor="middle">SQLAlchemy</text>
-    <rect class="chip" x="362" y="195" width="60"  height="28" rx="14"/>
-    <text class="chipt" x="392" y="214" text-anchor="middle">JWT</text>
+  <!-- Skill chips -->
+  <g font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" text-anchor="middle">
+    <g>
+      <rect x="627" y="180" width="82" height="30" rx="15" fill="#5eead4" fill-opacity="0.12" stroke="#5eead4" stroke-opacity="0.6"/>
+      <text x="668" y="200" fill="#5eead4">Python</text>
+    </g>
+    <g>
+      <rect x="719" y="180" width="92" height="30" rx="15" fill="#60a5fa" fill-opacity="0.12" stroke="#60a5fa" stroke-opacity="0.6"/>
+      <text x="765" y="200" fill="#60a5fa">FastAPI</text>
+    </g>
+    <g>
+      <rect x="821" y="180" width="102" height="30" rx="15" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.6"/>
+      <text x="872" y="200" fill="#a78bfa">REST APIs</text>
+    </g>
+    <g>
+      <rect x="933" y="180" width="62" height="30" rx="15" fill="#fbbf24" fill-opacity="0.12" stroke="#fbbf24" stroke-opacity="0.6"/>
+      <text x="964" y="200" fill="#fbbf24">SQL</text>
+    </g>
+  </g>
+
+  <!-- Status line -->
+  <g font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14">
+    <circle cx="633" cy="238" r="5" fill="#4ade80" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="648" y="243" fill="#94a3b8">GET /api/learning  →  200 OK</text>
+  </g>
+
+  <!-- API node graph -->
+  <g stroke="#5eead4" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="5 5" fill="none">
+    <path d="M1100 70 L1050 150 L1130 220"/>
+    <path d="M1050 150 L1000 60"/>
+    <path d="M1050 150 L1160 140"/>
+    <animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2s" repeatCount="indefinite"/>
+  </g>
+  <g filter="url(#glow)">
+    <circle cx="1050" cy="150" r="9" fill="#60a5fa">
+      <animate attributeName="r" values="9;12;9" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1100" cy="70" r="6" fill="#5eead4"/>
+    <circle cx="1130" cy="220" r="6" fill="#a78bfa"/>
+    <circle cx="1000" cy="60" r="5" fill="#fbbf24"/>
+    <circle cx="1160" cy="140" r="5" fill="#4ade80"/>
   </g>
 </svg>
