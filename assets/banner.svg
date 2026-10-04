@@ -1,108 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Samiullah - Computer Science Student and Backend Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Samiullah - Command Terminal Banner">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0b1220"/>
       <stop offset="50%" stop-color="#112a3a"/>
       <stop offset="100%" stop-color="#1b3b52"/>
     </linearGradient>
-    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#5eead4"/>
-      <stop offset="100%" stop-color="#60a5fa"/>
-    </linearGradient>
     <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
       <path d="M30 0H0V30" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
     </pattern>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <clipPath id="c1"><rect x="0" y="0" height="300" width="0"><animate attributeName="width" from="0" to="1200" dur="1.4s" begin="0.4s" fill="freeze"/></rect></clipPath>
-    <clipPath id="c2"><rect x="0" y="0" height="300" width="0"><animate attributeName="width" from="0" to="1200" dur="0.8s" begin="2.2s" fill="freeze"/></rect></clipPath>
-    <clipPath id="c3"><rect x="0" y="0" height="300" width="0"><animate attributeName="width" from="0" to="1200" dur="1.2s" begin="3.4s" fill="freeze"/></rect></clipPath>
-    <clipPath id="c4"><rect x="0" y="0" height="300" width="0"><animate attributeName="width" from="0" to="1200" dur="1.8s" begin="5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c1"><rect x="0" y="0" height="300" width="0"><animate attributeName="width" from="0" to="1200" dur="1.2s" begin="0.3s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="0" y="0" height="300" width="0"><animate attributeName="width" from="0" to="1200" dur="0.8s" begin="1.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="0" y="0" height="300" width="0"><animate attributeName="width" from="0" to="1200" dur="1.0s" begin="2.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="0" y="0" height="300" width="0"><animate attributeName="width" from="0" to="1200" dur="1.2s" begin="4.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="0" y="0" height="300" width="0"><animate attributeName="width" from="0" to="1200" dur="1.2s" begin="5.2s" fill="freeze"/></rect></clipPath>
   </defs>
 
   <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
   <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
 
-  <!-- Terminal window -->
-  <g>
-    <rect x="40" y="36" width="540" height="228" rx="12" fill="#0a0f1a" stroke="#2b4560" stroke-width="1.5"/>
-    <path d="M40 48a12 12 0 0 1 12-12h516a12 12 0 0 1 12 12v22H40z" fill="#14202f"/>
-    <circle cx="64" cy="53" r="6" fill="#ff5f56"/>
-    <circle cx="86" cy="53" r="6" fill="#ffbd2e"/>
-    <circle cx="108" cy="53" r="6" fill="#27c93f"/>
-    <text x="310" y="58" fill="#6b8299" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" text-anchor="middle">~/backend — zsh</text>
+  <!-- Centered Expanded Terminal Window -->
+  <g transform="translate(100, 20)">
+    <rect x="0" y="0" width="1000" height="260" rx="12" fill="#0a0f1a" stroke="#2b4560" stroke-width="1.5"/>
+    <path d="M0 12a12 12 0 0 1 12-12h976a12 12 0 0 1 12 12v28H0z" fill="#14202f"/>
+    <circle cx="28" cy="26" r="6" fill="#ff5f56"/>
+    <circle cx="48" cy="26" r="6" fill="#ffbd2e"/>
+    <circle cx="68" cy="26" r="6" fill="#27c93f"/>
+    <text x="500" y="31" fill="#6b8299" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" text-anchor="middle">samiullah@backend — zsh</text>
 
-    <g font-family="Consolas, Menlo, 'Courier New', monospace" font-size="16">
+    <g font-family="Consolas, Menlo, 'Courier New', monospace" font-size="16" transform="translate(0, 10)">
       <g clip-path="url(#c1)">
-        <text x="62" y="108"><tspan fill="#5eead4">$</tspan><tspan fill="#e2e8f0"> uvicorn main:app --reload</tspan></text>
+        <text x="32" y="70">
+          <tspan fill="#5eead4">samiullah@backend:~$</tspan>
+          <tspan fill="#e2e8f0"> uvicorn main:app --reload</tspan>
+        </text>
       </g>
       <g clip-path="url(#c2)">
-        <text x="62" y="136" fill="#4ade80">INFO:  Application startup complete.</text>
+        <text x="32" y="105" fill="#4ade80">INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)</text>
       </g>
       <g clip-path="url(#c3)">
-        <text x="62" y="176"><tspan fill="#5eead4">$</tspan><tspan fill="#e2e8f0"> curl localhost:8000/me</tspan></text>
+        <text x="32" y="140" fill="#4ade80">INFO:     Application startup complete.</text>
       </g>
       <g clip-path="url(#c4)">
-        <text x="62" y="208" fill="#fbbf24">{"role": "backend dev", "status": "learning"}</text>
+        <text x="32" y="175">
+          <tspan fill="#5eead4">samiullah@backend:~$</tspan>
+          <tspan fill="#e2e8f0"> curl localhost:8000/api/learning</tspan>
+        </text>
       </g>
-      <rect x="62" y="226" width="10" height="18" fill="#5eead4">
+      <g clip-path="url(#c5)">
+        <text x="32" y="210" fill="#fbbf24">{"status": "success", "message": "Backend developer skills loaded!"}</text>
+      </g>
+
+      <!-- Cursor -->
+      <rect x="32" y="222" width="10" height="18" fill="#5eead4">
         <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
       </rect>
     </g>
-  </g>
-
-  <!-- Name and role -->
-  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="625" y="118" font-size="58" font-weight="800" fill="url(#name)" letter-spacing="2">SAMIULLAH
-      <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.2s" fill="freeze"/>
-    </text>
-    <text x="627" y="152" font-size="20" fill="#cbd5e1" letter-spacing="1">Computer Science Student  ·  Backend Developer</text>
-  </g>
-
-  <!-- Skill chips -->
-  <g font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" text-anchor="middle">
-    <g>
-      <rect x="627" y="180" width="82" height="30" rx="15" fill="#5eead4" fill-opacity="0.12" stroke="#5eead4" stroke-opacity="0.6"/>
-      <text x="668" y="200" fill="#5eead4">Python</text>
-    </g>
-    <g>
-      <rect x="719" y="180" width="92" height="30" rx="15" fill="#60a5fa" fill-opacity="0.12" stroke="#60a5fa" stroke-opacity="0.6"/>
-      <text x="765" y="200" fill="#60a5fa">FastAPI</text>
-    </g>
-    <g>
-      <rect x="821" y="180" width="102" height="30" rx="15" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.6"/>
-      <text x="872" y="200" fill="#a78bfa">REST APIs</text>
-    </g>
-    <g>
-      <rect x="933" y="180" width="62" height="30" rx="15" fill="#fbbf24" fill-opacity="0.12" stroke="#fbbf24" stroke-opacity="0.6"/>
-      <text x="964" y="200" fill="#fbbf24">SQL</text>
-    </g>
-  </g>
-
-  <!-- Status line -->
-  <g font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14">
-    <circle cx="633" cy="238" r="5" fill="#4ade80" filter="url(#glow)">
-      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <text x="648" y="243" fill="#94a3b8">GET /api/learning  →  200 OK</text>
-  </g>
-
-  <!-- API node graph -->
-  <g stroke="#5eead4" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="5 5" fill="none">
-    <path d="M1100 70 L1050 150 L1130 220"/>
-    <path d="M1050 150 L1000 60"/>
-    <path d="M1050 150 L1160 140"/>
-    <animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2s" repeatCount="indefinite"/>
-  </g>
-  <g filter="url(#glow)">
-    <circle cx="1050" cy="150" r="9" fill="#60a5fa">
-      <animate attributeName="r" values="9;12;9" dur="2.4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1100" cy="70" r="6" fill="#5eead4"/>
-    <circle cx="1130" cy="220" r="6" fill="#a78bfa"/>
-    <circle cx="1000" cy="60" r="5" fill="#fbbf24"/>
-    <circle cx="1160" cy="140" r="5" fill="#4ade80"/>
   </g>
 </svg>
