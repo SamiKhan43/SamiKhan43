@@ -45,14 +45,29 @@ class Samiullah:
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=SamiKhan43&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false" />
-<img height="170" alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SamiKhan43&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+<a href="https://github.com/SamiKhan43">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SamiKhan43&show_icons=true&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" alt="Samiullah's GitHub Stats" />
+</a>
+<a href="https://github.com/SamiKhan43">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiKhan43&theme=blue_navy&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
+</a>
+
+<br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=SamiKhan43&theme=blue-navy&hide_border=true" alt="GitHub Contribution Streak" />
+
+<br/><br/>
+
+### Contribution Activity
+
+<img width="90%" src="https://ghchart.rshah.org/2ea043/SamiKhan43" alt="GitHub Contribution Calendar" />
 
 </div>
+
 
 <br/>
 
