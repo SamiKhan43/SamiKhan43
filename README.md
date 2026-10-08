@@ -36,10 +36,21 @@ class Samiullah:
 
 <div align="center">
 
-<a href="https://github.com/SamiKhan43/Expense-Tracker-API"> <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=Expense-Tracker-API&theme=blue_navy&hide_border=true" alt="Expense Tracker API" /> </a>
-<a href="https://github.com/SamiKhan43/Weather_Application"> <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=Weather_Application&theme=blue_navy&hide_border=true" alt="Weather Application" /> </a>
-<a href="https://github.com/SamiKhan43/Broadcast-Server-CLI"> <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=Broadcast-Server-CLI&theme=blue_navy&hide_border=true" alt="Broadcast Server CLI" /> </a>
-<a href="https://github.com/SamiKhan43/URL-Shortening-Service"> <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=URL-Shortening-Service&theme=blue_navy&hide_border=true" alt="URL Shortening Service" /> </a>
+<a href="https://github.com/SamiKhan43/Expense-Tracker-API">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=Expense-Tracker-API&theme=blue_navy&hide_border=true" alt="Expense Tracker API" />
+</a>
+
+<a href="https://github.com/SamiKhan43/Saved-Reels-Visualizer">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=Saved-Reels-Visualizer&theme=blue_navy&hide_border=true" alt="Saved Reels Visualizer" />
+</a>
+
+<a href="https://github.com/SamiKhan43/Broadcast-Server-CLI">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=Broadcast-Server-CLI&theme=blue_navy&hide_border=true" alt="Broadcast Server CLI" />
+</a>
+
+<a href="https://github.com/SamiKhan43/URL-Shortening-Service">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=URL-Shortening-Service&theme=blue_navy&hide_border=true" alt="URL Shortening Service" />
+</a>
 
 </div>
 
