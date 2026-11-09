@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Samiullah&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Backend%20Developer&descSize=18&descAlignY=58&animation=fadeIn&color=0:0f0c29,50:302b63,100:6c63ff" alt="Samiullah - Backend Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Samiullah&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Backend%20Engineer&descFontSize=18&descFontColor=9be9ff&backgroundColor=0f172a" alt="Samiullah banner" />
 
-### Building APIs. Learning Systems. Solving Problems.
+<h3>Building APIs. Learning Systems. Solving Problems.</h3>
 
-I build practical backend applications and REST APIs with Python, FastAPI, and SQLAlchemy while continuously improving my database and authentication skills.
+I build backend applications, REST APIs, and practical tools with Python, FastAPI, and SQLAlchemy while deepening my understanding of databases, authentication, and system design.
 
 <br/>
 
@@ -25,16 +25,27 @@ I build practical backend applications and REST APIs with Python, FastAPI, and S
 
 ---
 
-## ◈ About Me
+## About Me
 
-- Building backend applications and REST APIs using **Python and FastAPI**.
-- Learning database design, SQLAlchemy, and relational databases.
+- Building backend applications and REST APIs with Python and FastAPI.
+- Learning database design, SQLAlchemy, and relational systems.
 - Exploring authentication, JWT, and backend security.
-- Improving my software development skills through hands-on projects.
+- Improving through real-world projects and practical problem solving.
+- Interested in clean architecture, maintainable code, and scalable services.
 
 ---
 
-## ⚡ Tech Stack
+## Current Focus
+
+- Backend development with FastAPI and Python
+- REST API design and authentication
+- SQL / PostgreSQL / SQLite workflows
+- Building production-ready mini-projects
+- Improving debugging, testing, and architecture fundamentals
+
+---
+
+## Tech Stack
 
 ### Languages
 
@@ -67,7 +78,7 @@ I build practical backend applications and REST APIs with Python, FastAPI, and S
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -89,7 +100,7 @@ I build practical backend applications and REST APIs with Python, FastAPI, and S
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -110,9 +121,9 @@ I build practical backend applications and REST APIs with Python, FastAPI, and S
 
 <div align="center">
 
-### Learn. Build. Improve.
+### Let's build something useful.
 
-*Building my backend development skills one project at a time.*
+I’m always open to learning, collaborating, and working on meaningful backend projects.
 
 <br/>
 
