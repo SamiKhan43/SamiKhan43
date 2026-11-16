@@ -1,12 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Samiullah&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Backend%20Engineer&descFontSize=18&descFontColor=9be9ff&backgroundColor=0f172a" alt="Samiullah banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6c63ff&height=220&section=header&text=Samiullah&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Backend%20Engineer&descSize=18&descAlignY=58" alt="Samiullah banner" />
 
 <h3>Building APIs. Learning Systems. Solving Problems.</h3>
 
-I build backend applications, REST APIs, and practical tools with Python, FastAPI, and SQLAlchemy while deepening my understanding of databases, authentication, and system design.
-
-<br/>
+<p>
+  Hi, I'm Samiullah, a Computer Science student who enjoys building<br/>
+  backend applications and REST APIs with Python, FastAPI and SQLAlchemy.
+</p>
 
 <a href="https://github.com/SamiKhan43">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />
@@ -27,27 +28,23 @@ I build backend applications, REST APIs, and practical tools with Python, FastAP
 
 ## About Me
 
-- Building backend applications and REST APIs with Python and FastAPI.
-- Learning database design, SQLAlchemy, and relational systems.
-- Exploring authentication, JWT, and backend security.
-- Improving through real-world projects and practical problem solving.
-- Interested in clean architecture, maintainable code, and scalable services.
+I learn best by building things. Most of my time goes into backend projects, where I get to work through the problems that textbooks only describe: designing a database schema, securing an API, and keeping code readable as it grows.
 
----
+I care about clean architecture, maintainable code and services that can scale. I'm still early in my career, so I treat every project as a chance to understand a topic properly rather than just get it working.
 
-## Current Focus
+## What I'm Focused On
 
 - Backend development with FastAPI and Python
-- REST API design and authentication
-- SQL / PostgreSQL / SQLite workflows
-- Building production-ready mini-projects
-- Improving debugging, testing, and architecture fundamentals
+- REST API design, JWT authentication and backend security
+- Relational databases with PostgreSQL and SQLite, using SQLAlchemy
+- Debugging, testing and software architecture fundamentals
+- Turning small projects into production-ready services
 
 ---
 
 ## Tech Stack
 
-### Languages
+**Languages**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -55,7 +52,7 @@ I build backend applications, REST APIs, and practical tools with Python, FastAP
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### Backend & Databases
+**Backend and Databases**
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -65,7 +62,7 @@ I build backend applications, REST APIs, and practical tools with Python, FastAP
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-### Tools & Environment
+**Tools and Environment**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -82,38 +79,30 @@ I build backend applications, REST APIs, and practical tools with Python, FastAP
 
 <div align="center">
 
-<a href="https://github.com/SamiKhan43/Image-Processing-Application-">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=Image-Processing-Application-&theme=tokyonight&hide_border=true" alt="Image Processing Application" />
-</a>
-<a href="https://github.com/SamiKhan43/Saved-Reels-Visualizer">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=Saved-Reels-Visualizer&theme=tokyonight&hide_border=true" alt="Saved Reels Visualizer" />
-</a>
-
 <a href="https://github.com/SamiKhan43/Expense-Tracker-API">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=Expense-Tracker-API&theme=tokyonight&hide_border=true" alt="Expense Tracker API" />
+  <img width="48%" src="./assets/project-expense-tracker-api.svg" alt="Expense Tracker API" />
 </a>
 <a href="https://github.com/SamiKhan43/URL-Shortening-Service">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SamiKhan43&repo=URL-Shortening-Service&theme=tokyonight&hide_border=true" alt="URL Shortening Service" />
+  <img width="48%" src="./assets/project-url-shortening-service.svg" alt="URL Shortening Service" />
+</a>
+
+<a href="https://github.com/SamiKhan43/Image-Processing-Application-">
+  <img width="48%" src="./assets/project-image-processing-application.svg" alt="Image Processing Application" />
+</a>
+<a href="https://github.com/SamiKhan43/Saved-Reels-Visualizer">
+  <img width="48%" src="./assets/project-saved-reels-visualizer.svg" alt="Saved Reels Visualizer" />
 </a>
 
 </div>
 
 ---
 
-## GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SamiKhan43&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiKhan43&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used programming languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=SamiKhan43&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-<br/><br/>
-
-<img width="95%" src="https://ghchart.rshah.org/6c63ff/SamiKhan43" alt="GitHub contribution calendar" />
+<img width="48%" src="./assets/stats.svg" alt="GitHub statistics" />
+<img width="48%" src="./assets/languages.svg" alt="Most used programming languages" />
 
 </div>
 
@@ -121,9 +110,10 @@ I build backend applications, REST APIs, and practical tools with Python, FastAP
 
 <div align="center">
 
-### Let's build something useful.
+### Let's Connect
 
-I’m always open to learning, collaborating, and working on meaningful backend projects.
+I'm open to learning from others, collaborating on projects and taking on meaningful backend work.<br/>
+If you'd like to talk, you can reach me by [email](mailto:qwertynoob456@gmail.com) or on [X](https://x.com/khan_sami88006).
 
 <br/>
 
