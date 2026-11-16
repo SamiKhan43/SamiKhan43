@@ -78,7 +78,7 @@ I believe becoming a good engineer is about more than knowing tools or framework
 
 <div align="center">
 
-<a href="https://samikhan43.github.io/roadmap-hub/"><img width="48%" src="./assets/project-roadmap-hub.svg" alt="Roadmap Hub" /></a>
+<a href="https://github.com/SamiKhan43/roadmap-hub"><img width="48%" src="./assets/project-roadmap-hub.svg" alt="Roadmap Hub" /></a>
 <a href="https://github.com/SamiKhan43/URL-Shortening-Service"><img width="48%" src="./assets/project-url-shortening-service.svg" alt="URL Shortening Service" /></a>
 
 <a href="https://github.com/SamiKhan43/Image-Processing-Application-"><img width="48%" src="./assets/project-image-processing-application.svg" alt="Image Processing Application" /></a>
