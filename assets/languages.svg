@@ -5,9 +5,9 @@
 <text x="28" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="700" fill="#9be9ff" text-anchor="start">Most Used Languages</text>
 <clipPath id="bar"><rect x="28" y="56" width="440" height="10" rx="5"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="28.00" y="56" width="345.57" height="10" fill="#e34c26"/>
-<rect x="373.57" y="56" width="47.83" height="10" fill="#3572A5"/>
-<rect x="421.39" y="56" width="28.93" height="10" fill="#f1e05a"/>
+<rect x="28.00" y="56" width="345.52" height="10" fill="#e34c26"/>
+<rect x="373.52" y="56" width="47.82" height="10" fill="#3572A5"/>
+<rect x="421.34" y="56" width="28.99" height="10" fill="#f1e05a"/>
 <rect x="450.33" y="56" width="16.45" height="10" fill="#9b59d0"/>
 <rect x="466.78" y="56" width="1.07" height="10" fill="#336790"/>
 <rect x="467.84" y="56" width="0.16" height="10" fill="#384d54"/>
