@@ -1,0 +1,39 @@
+name: Sync Mono Profile README
+
+on:
+  push:
+    paths:
+      - "tsushima-readme-mono/**"
+      - "scripts/sync_mono_readme.py"
+      - ".github/workflows/sync-mono-readme.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Sync mono README and assets
+        run: python scripts/sync_mono_readme.py
+
+      - name: Commit synced profile files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/*-mono.svg
+          if git diff --cached --quiet; then
+            echo "Profile README and assets are already up to date."
+          else
+            git commit -m "Sync mono profile README"
+            git push
+          fi
