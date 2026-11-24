@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1296" height="34" viewBox="0 0 1296 34">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#cbcbcb" stop-opacity="0"/><stop offset=".5" stop-color="#cbcbcb"/><stop offset="1" stop-color="#cbcbcb" stop-opacity="0"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset=".5" stop-color="#f0f0f0" stop-opacity=".9"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="1.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-weight:700;white-space:pre} .s{animation:sl 4s ease-in-out infinite} @keyframes sl{0%{transform:translateX(-300px)}60%,100%{transform:translateX(1296px)}} .c{animation:pu 3s ease-in-out infinite} @keyframes pu{0%,100%{opacity:.75}50%{opacity:1}}</style>
+<g filter="url(#glow)"><rect x="0" y="16.25" width="1296" height="1.5" fill="url(#l)"/>
+<rect class="s" x="0" y="16.0" width="300" height="2" fill="url(#sh)"/>
+<text x="270" y="20.0" fill="#d5d5d5" fill-opacity="0.10" font-size="9" text-anchor="middle">·</text>
+<text x="312" y="20.0" fill="#d5d5d5" fill-opacity="0.20" font-size="9" text-anchor="middle">+</text>
+<text x="354" y="20.0" fill="#d5d5d5" fill-opacity="0.30" font-size="9" text-anchor="middle">·</text>
+<text x="396" y="20.0" fill="#d5d5d5" fill-opacity="0.40" font-size="9" text-anchor="middle">+</text>
+<text x="438" y="20.0" fill="#d5d5d5" fill-opacity="0.50" font-size="9" text-anchor="middle">·</text>
+<text x="480" y="20.0" fill="#d5d5d5" fill-opacity="0.60" font-size="9" text-anchor="middle">+</text>
+<text x="522" y="20.0" fill="#d5d5d5" fill-opacity="0.70" font-size="9" text-anchor="middle">·</text>
+<text x="564" y="20.0" fill="#d5d5d5" fill-opacity="0.80" font-size="9" text-anchor="middle">+</text>
+<text x="606" y="20.0" fill="#d5d5d5" fill-opacity="0.90" font-size="9" text-anchor="middle">·</text>
+<text x="690" y="20.0" fill="#d5d5d5" fill-opacity="0.90" font-size="9" text-anchor="middle">·</text>
+<text x="732" y="20.0" fill="#d5d5d5" fill-opacity="0.80" font-size="9" text-anchor="middle">+</text>
+<text x="774" y="20.0" fill="#d5d5d5" fill-opacity="0.70" font-size="9" text-anchor="middle">·</text>
+<text x="816" y="20.0" fill="#d5d5d5" fill-opacity="0.60" font-size="9" text-anchor="middle">+</text>
+<text x="858" y="20.0" fill="#d5d5d5" fill-opacity="0.50" font-size="9" text-anchor="middle">·</text>
+<text x="900" y="20.0" fill="#d5d5d5" fill-opacity="0.40" font-size="9" text-anchor="middle">+</text>
+<text x="942" y="20.0" fill="#d5d5d5" fill-opacity="0.30" font-size="9" text-anchor="middle">·</text>
+<text x="984" y="20.0" fill="#d5d5d5" fill-opacity="0.20" font-size="9" text-anchor="middle">+</text>
+<text x="1026" y="20.0" fill="#d5d5d5" fill-opacity="0.10" font-size="9" text-anchor="middle">·</text>
+<rect x="614.0" y="8.0" width="68" height="18" fill="#0b0b0b"/>
+<text class="c" x="648.0" y="22.0" fill="#cbcbcb" font-size="14" text-anchor="middle">-{ ◆ }-</text></g></svg>
