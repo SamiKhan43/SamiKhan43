@@ -51,22 +51,23 @@ For me, being a good engineer isn't about knowing tools or frameworks. It's abou
 
 <div align="center">
 
-**Languages**
-
+<b>Languages</b><br />
 <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=e6e6e6" alt="Python" />
 <img src="https://img.shields.io/badge/C%2B%2B-151515?style=for-the-badge&logo=cplusplus&logoColor=e6e6e6" alt="C++" />
 <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=e6e6e6" alt="JavaScript" />
 
-**Backend & Databases**
+<br /><br />
 
+<b>Backend & Databases</b><br />
 <img src="https://img.shields.io/badge/FastAPI-151515?style=for-the-badge&logo=fastapi&logoColor=e6e6e6" alt="FastAPI" />
 <img src="https://img.shields.io/badge/SQLAlchemy-151515?style=for-the-badge&logo=sqlalchemy&logoColor=e6e6e6" alt="SQLAlchemy" />
 <img src="https://img.shields.io/badge/JWT-151515?style=for-the-badge&logo=jsonwebtokens&logoColor=e6e6e6" alt="JWT" />
 <img src="https://img.shields.io/badge/SQLite-151515?style=for-the-badge&logo=sqlite&logoColor=e6e6e6" alt="SQLite" />
 <img src="https://img.shields.io/badge/PostgreSQL-151515?style=for-the-badge&logo=postgresql&logoColor=e6e6e6" alt="PostgreSQL" />
 
-**Tools & Environment**
+<br /><br />
 
+<b>Tools & Environment</b><br />
 <img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=e6e6e6" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=e6e6e6" alt="GitHub" />
 <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker&logoColor=e6e6e6" alt="Docker" />
