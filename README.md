@@ -1,132 +1,118 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6c63ff&height=220&section=header&text=Samiullah&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Backend%20Engineer&descSize=18&descAlignY=58" alt="Samiullah banner" />
+<img width="100%" src="assets/ghost-of-tsushima-mono.svg" alt="Ghost of Tsushima ASCII banner" />
 
-### Understanding Software. Building Solutions. Growing as an Engineer.
+<a href="https://github.com/SamiKhan43">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=E6E6E6&center=true&vCenter=true&width=720&lines=Understanding+Software.;Building+Solutions.;Growing+as+an+Engineer." alt="Understanding Software. Building Solutions. Growing as an Engineer." />
+</a>
 
-Hi, I'm Samiullah, a Computer Science student exploring software engineering, backend development, and artificial intelligence. I enjoy learning how technology works under the hood, strengthening my fundamentals, and applying what I learn through practical projects.
+<p>
+  <b>Hi, I'm Samiullah</b> — a Computer Science student exploring <b>software engineering</b>,<br />
+  <b>backend development</b> and <b>artificial intelligence</b>.
+</p>
 
-
-<a href="https://github.com/SamiKhan43"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://x.com/khan_sami88006"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" alt="X" /></a>
-<a href="https://instagram.com/samiiiii_560"><img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="mailto:qwertynoob456@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p>
+  <a href="https://github.com/SamiKhan43"><img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=e6e6e6" alt="GitHub" /></a>
+  <a href="https://x.com/khan_sami88006"><img src="https://img.shields.io/badge/X-151515?style=for-the-badge&logo=x&logoColor=e6e6e6" alt="X" /></a>
+  <a href="https://instagram.com/samiiiii_560"><img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=e6e6e6" alt="Instagram" /></a>
+  <a href="mailto:qwertynoob456@gmail.com"><img src="https://img.shields.io/badge/Email-151515?style=for-the-badge&logo=gmail&logoColor=e6e6e6" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SamiKhan43&style=for-the-badge&color=1f1f1f&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 </div>
 
----
-
+<img width="100%" src="assets/divider-mono.svg" alt="" />
 
 ## About Me
 
-I'm a Computer Science student interested in understanding how software works beyond just writing code.
+I'm a Computer Science student interested in understanding how software works **beyond just writing code**.
 
-I'm building my foundation in software engineering by learning core concepts such as data structures and algorithms, databases, computer networks, operating systems, and software architecture. I enjoy understanding how things work under the hood and how different parts of a system fit together.
+I'm building my foundation in software engineering — data structures and algorithms, databases, computer networks, operating systems and software architecture — and I enjoy seeing how the different parts of a system fit together.
 
-Alongside the fundamentals, I'm exploring backend development and AI. I enjoy building practical projects with Python, FastAPI, SQL and PostgreSQL, while learning how AI works and how it can be used to solve real-world problems.
+Alongside the fundamentals, I'm exploring backend development and AI, building practical projects with **Python, FastAPI, SQL and PostgreSQL**.
 
-I believe becoming a good engineer is about more than knowing tools or frameworks. It's about understanding problems, thinking critically, making thoughtful decisions, and continuously learning how to build better software.
+For me, being a good engineer isn't about knowing tools or frameworks. It's about understanding problems, thinking critically, making thoughtful decisions and continuously learning to build better software.
 
+<img width="100%" src="assets/divider-mono.svg" alt="" />
 
+## Current Focus
 
-## What I'm Focused On
+| Area | Details |
+|:--|:--|
+| **Engineering Fundamentals** | DSA, operating systems, networks, databases and software architecture |
+| **Backend Development** | How servers, APIs, authentication and databases work under the hood |
+| **Artificial Intelligence** | Learning AI concepts and applying them to real-world problems |
+| **Database Engineering** | SQL & PostgreSQL — schema design, queries and transactions |
+| **Practical Projects** | Turning what I learn into working software |
 
-- **Software Engineering Fundamentals:** Building a strong understanding of data structures and algorithms, operating systems, computer networks, databases, and software architecture.
-- **Backend Development:** Understanding how servers, APIs, authentication, and databases work under the hood.
-- **Artificial Intelligence:** Exploring AI concepts and learning how AI can be used to solve real-world problems.
-- **Database Engineering:** Improving my SQL and PostgreSQL skills, including database design, queries, and transactions.
-- **Practical Projects:** Applying what I learn by building projects, experimenting with technologies, and improving my problem-solving skills.
-- 
-
----
+<img width="100%" src="assets/divider-mono.svg" alt="" />
 
 ## Tech Stack
 
+<div align="center">
+
 **Languages**
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+<img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=e6e6e6" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-151515?style=for-the-badge&logo=cplusplus&logoColor=e6e6e6" alt="C++" />
+<img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=e6e6e6" alt="JavaScript" />
 
-**Backend and Databases**
+**Backend & Databases**
 
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+<img src="https://img.shields.io/badge/FastAPI-151515?style=for-the-badge&logo=fastapi&logoColor=e6e6e6" alt="FastAPI" />
+<img src="https://img.shields.io/badge/SQLAlchemy-151515?style=for-the-badge&logo=sqlalchemy&logoColor=e6e6e6" alt="SQLAlchemy" />
+<img src="https://img.shields.io/badge/JWT-151515?style=for-the-badge&logo=jsonwebtokens&logoColor=e6e6e6" alt="JWT" />
+<img src="https://img.shields.io/badge/SQLite-151515?style=for-the-badge&logo=sqlite&logoColor=e6e6e6" alt="SQLite" />
+<img src="https://img.shields.io/badge/PostgreSQL-151515?style=for-the-badge&logo=postgresql&logoColor=e6e6e6" alt="PostgreSQL" />
 
-**Tools and Environment**
+**Tools & Environment**
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
-</p>
+<img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=e6e6e6" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=e6e6e6" alt="GitHub" />
+<img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker&logoColor=e6e6e6" alt="Docker" />
+<img src="https://img.shields.io/badge/VS_Code-151515?style=for-the-badge&logo=visualstudiocode&logoColor=e6e6e6" alt="VS Code" />
+<img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=e6e6e6" alt="Linux" />
+<img src="https://img.shields.io/badge/Pytest-151515?style=for-the-badge&logo=pytest&logoColor=e6e6e6" alt="Pytest" />
 
----
+</div>
+
+<img width="100%" src="assets/divider-mono.svg" alt="" />
 
 ## Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/SamiKhan43/roadmap-hub"><img width="48%" src="./assets/project-roadmap-hub.svg" alt="Roadmap Hub" /></a>
-<a href="https://github.com/SamiKhan43/URL-Shortening-Service"><img width="48%" src="./assets/project-url-shortening-service.svg" alt="URL Shortening Service" /></a>
+<a href="https://github.com/SamiKhan43/roadmap-hub"><img width="48%" src="./assets/project-roadmap-hub-mono.svg" alt="Roadmap Hub" /></a>&nbsp;<a href="https://github.com/SamiKhan43/URL-Shortening-Service"><img width="48%" src="./assets/project-url-shortening-service-mono.svg" alt="URL Shortening Service" /></a>
 
-<a href="https://github.com/SamiKhan43/Image-Processing-Application-"><img width="48%" src="./assets/project-image-processing-application.svg" alt="Image Processing Application" /></a>
-<a href="https://github.com/SamiKhan43/Saved-Reels-Visualizer"><img width="48%" src="./assets/project-saved-reels-visualizer.svg" alt="Saved Reels Visualizer" /></a>
+<a href="https://github.com/SamiKhan43/Image-Processing-Application-"><img width="48%" src="./assets/project-image-processing-application-mono.svg" alt="Image Processing Application" /></a>&nbsp;<a href="https://github.com/SamiKhan43/Saved-Reels-Visualizer"><img width="48%" src="./assets/project-saved-reels-visualizer-mono.svg" alt="Saved Reels Visualizer" /></a>
 
 </div>
 
----
+<img width="100%" src="assets/divider-mono.svg" alt="" />
 
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamiKhan43&theme=tokyonight" alt="GitHub profile details" />
+<img src="https://img.shields.io/github/followers/SamiKhan43?style=for-the-badge&logo=github&logoColor=e6e6e6&label=Followers&labelColor=151515&color=2a2a2a" alt="Followers" />
+<img src="https://img.shields.io/github/stars/SamiKhan43?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=e6e6e6&label=Stars&labelColor=151515&color=2a2a2a" alt="Stars" />
+<br /><br />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamiKhan43&show_icons=true&rank_icon=github&card_width=495&bg_color=0a0a0a&title_color=ffffff&icon_color=bdbdbd&text_color=c9c9c9&border_color=2a2a2a&ring_color=ffffff&border_radius=12" alt="GitHub stats" />&nbsp;<img width="49%" src="https://streak-stats.demolab.com?user=SamiKhan43&background=0A0A0A&border=2A2A2A&stroke=2A2A2A&ring=FFFFFF&fire=E6E6E6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=BDBDBD&dates=7D7D7D&border_radius=12" alt="GitHub streak" />
 
-<table>
-<tr>
-<td width="50%" align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamiKhan43&theme=tokyonight" alt="Top languages by repository" />
-</td>
-<td width="50%" align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamiKhan43&theme=tokyonight" alt="Top languages by commits" />
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamiKhan43&theme=tokyonight" alt="GitHub statistics" />
-</td>
-<td width="50%" align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamiKhan43&theme=tokyonight&utcOffset=5" alt="Most productive time" />
-</td>
-</tr>
-</table>
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamiKhan43&bg_color=0a0a0a&color=bdbdbd&line=e6e6e6&point=ffffff&area=true&area_color=6e6e6e&title_color=ffffff&hide_border=true&radius=12&custom_title=Contribution%20Activity" alt="Contribution graph" />
 
 </div>
 
----
+<img width="100%" src="assets/divider-mono.svg" alt="" />
 
 <div align="center">
 
-### Let's Connect
+## Get in Touch
 
 I'm open to learning from others, collaborating on projects and taking on meaningful backend work.
 
-If you'd like to talk, you can reach me by [email](mailto:qwertynoob456@gmail.com) or on [X](https://x.com/khan_sami88006).
+<a href="mailto:qwertynoob456@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-e6e6e6?style=for-the-badge&logo=gmail&logoColor=0a0a0a" alt="Email me" /></a>&nbsp;<a href="https://x.com/khan_sami88006"><img src="https://img.shields.io/badge/Message_on_X-151515?style=for-the-badge&logo=x&logoColor=e6e6e6" alt="X" /></a>
 
-<br />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,50:302b63,100:0f0c29&height=120&section=footer" alt="Decorative footer" />
+<img width="100%" src="assets/footer-grass-mono.svg" alt="" />
 
 </div>
