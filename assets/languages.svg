@@ -5,10 +5,10 @@
 <text x="28" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="700" fill="#9be9ff" text-anchor="start">Most Used Languages</text>
 <clipPath id="bar"><rect x="28" y="56" width="440" height="10" rx="5"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="28.00" y="56" width="304.60" height="10" fill="#e34c26"/>
-<rect x="332.60" y="56" width="68.34" height="10" fill="#f1e05a"/>
-<rect x="400.94" y="56" width="42.22" height="10" fill="#3572A5"/>
-<rect x="443.16" y="56" width="23.77" height="10" fill="#9b59d0"/>
+<rect x="28.00" y="56" width="304.47" height="10" fill="#e34c26"/>
+<rect x="332.47" y="56" width="68.31" height="10" fill="#f1e05a"/>
+<rect x="400.78" y="56" width="42.39" height="10" fill="#3572A5"/>
+<rect x="443.17" y="56" width="23.76" height="10" fill="#9b59d0"/>
 <rect x="466.93" y="56" width="0.93" height="10" fill="#336790"/>
 <rect x="467.86" y="56" width="0.14" height="10" fill="#384d54"/>
 </g>
