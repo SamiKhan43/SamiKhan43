@@ -5,10 +5,10 @@
 <text x="28" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="700" fill="#9be9ff" text-anchor="start">Samiullah's GitHub Stats</text>
 <circle cx="32" cy="75" r="4" fill="#6c63ff"/>
 <text x="46" y="80" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#94a3b8" text-anchor="start">Public repositories</text>
-<text x="46" y="100" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#e2e8f0" text-anchor="start">26</text>
+<text x="46" y="100" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#e2e8f0" text-anchor="start">25</text>
 <circle cx="32" cy="115" r="4" fill="#6c63ff"/>
 <text x="46" y="120" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#94a3b8" text-anchor="start">Total stars earned</text>
-<text x="46" y="140" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#e2e8f0" text-anchor="start">67</text>
+<text x="46" y="140" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#e2e8f0" text-anchor="start">61</text>
 <circle cx="32" cy="155" r="4" fill="#6c63ff"/>
 <text x="46" y="160" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#94a3b8" text-anchor="start">Total commits</text>
 <text x="46" y="180" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700" fill="#e2e8f0" text-anchor="start">415</text>
