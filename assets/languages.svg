@@ -5,25 +5,25 @@
 <text x="28" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="700" fill="#9be9ff" text-anchor="start">Most Used Languages</text>
 <clipPath id="bar"><rect x="28" y="56" width="440" height="10" rx="5"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="28.00" y="56" width="303.80" height="10" fill="#e34c26"/>
-<rect x="331.80" y="56" width="69.33" height="10" fill="#f1e05a"/>
-<rect x="401.13" y="56" width="40.50" height="10" fill="#3572A5"/>
-<rect x="441.63" y="56" width="25.35" height="10" fill="#9b59d0"/>
+<rect x="28.00" y="56" width="303.09" height="10" fill="#e34c26"/>
+<rect x="331.09" y="56" width="69.17" height="10" fill="#f1e05a"/>
+<rect x="400.26" y="56" width="41.43" height="10" fill="#3572A5"/>
+<rect x="441.69" y="56" width="25.29" height="10" fill="#9b59d0"/>
 <rect x="466.98" y="56" width="0.89" height="10" fill="#336790"/>
 <rect x="467.87" y="56" width="0.13" height="10" fill="#384d54"/>
 </g>
 <circle cx="33" cy="101" r="5" fill="#e34c26"/>
 <text x="46" y="105" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" text-anchor="start">HTML</text>
-<text x="233" y="105" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#94a3b8" text-anchor="end">69.0%</text>
+<text x="233" y="105" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#94a3b8" text-anchor="end">68.9%</text>
 <circle cx="33" cy="133" r="5" fill="#f1e05a"/>
 <text x="46" y="137" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" text-anchor="start">JavaScript</text>
-<text x="233" y="137" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#94a3b8" text-anchor="end">15.8%</text>
+<text x="233" y="137" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#94a3b8" text-anchor="end">15.7%</text>
 <circle cx="33" cy="165" r="5" fill="#3572A5"/>
 <text x="46" y="169" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" text-anchor="start">Python</text>
-<text x="233" y="169" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#94a3b8" text-anchor="end">9.2%</text>
+<text x="233" y="169" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#94a3b8" text-anchor="end">9.4%</text>
 <circle cx="265" cy="101" r="5" fill="#9b59d0"/>
 <text x="278" y="105" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" text-anchor="start">CSS</text>
-<text x="465" y="105" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#94a3b8" text-anchor="end">5.8%</text>
+<text x="465" y="105" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#94a3b8" text-anchor="end">5.7%</text>
 <circle cx="265" cy="133" r="5" fill="#336790"/>
 <text x="278" y="137" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" text-anchor="start">PLpgSQL</text>
 <text x="465" y="137" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#94a3b8" text-anchor="end">0.2%</text>
